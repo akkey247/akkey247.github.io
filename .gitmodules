@@ -1,0 +1,12 @@
+[submodule "akkey247.github.io"]
+	path = akkey247.github.io
+	url = git@github.com:akkey247/akkey247.github.io.git
+	branch = master
+[submodule "doc"]
+	path = doc
+	url = git@github.com:akkey247/akkey247.github.io.git
+	branch = master
+[submodule "docs"]
+	path = docs
+	url = git@github.com:akkey247/akkey247.github.io.git
+	branch = master
